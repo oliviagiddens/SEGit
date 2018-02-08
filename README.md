@@ -8,5 +8,4 @@ Coding is intimidating to many people, which is why there has been such a demand
 ## Comments 
 
 > ### Leila:
-> I agree that at the heart of computer science, it really comes down to 
 >I agree that at the heart of computer science, it really comes down to "knowing available tools and crafting effective solutions to problems," like Haehn says. Though I think that traditional software engineers will still be needed in many cases to do higher level work and assist others, it is smart to teach everyone how to use these very high level coding tools as a way to solve their problems, especially since they may be closer to the problem than a hired software engineer, and might bring a new perspective on how to solve it. 
